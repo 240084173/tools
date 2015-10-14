@@ -19,3 +19,5 @@ int main(int argc,char *argv[])
 	filename.close();
 	return 0;
 }
+
+//linux shell : find /media/project/ > file.txt -path '*.jpg'
