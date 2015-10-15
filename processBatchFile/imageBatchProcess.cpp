@@ -1,4 +1,4 @@
-#include "imagebatchprocess.h"
+#include "imageBatchProcess.h"
 #include <sys/types.h>
 #include <dirent.h>
 #include <sys/stat.h>
